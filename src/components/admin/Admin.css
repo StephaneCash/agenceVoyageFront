@@ -1,0 +1,54 @@
+.admin .button {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.admin .selectedPage{
+    background-color: #ddd;
+}
+
+.admin a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.admin a:hover {
+    color: #fff;
+}
+
+.admin .button .btn {
+    background-color: #01357f;
+    padding: 1rem;
+    color: #fff;
+}
+
+.admin img {
+    width: 50px;
+    height: 50px;
+    border-radius: 150px;
+    border: 1px solid #ddd;
+}
+
+.imageTextAgence {
+    display: flex;
+    gap: .5rem;
+    align-items: center;
+}
+
+.admin td {
+    line-height: 1.5;
+    vertical-align: middle;
+}
+
+.admin .icons svg {
+    font-size: 1.3rem;
+    margin-left: 5px;
+}
+
+.addVoyage .btn {
+    background-color: #01357f;
+    padding: 1rem;
+    color: #fff;
+}
